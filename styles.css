@@ -27,3 +27,38 @@ h1 {
   margin-bottom: 20px;
   color: #333;
 }
+
+#img-div {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+#img-caption {
+  margin-top: 10px;
+  font-style: italic;
+  color: #555;
+}
+
+#tribute-info {
+  margin-bottom: 20px;
+  color: #333;
+  line-height: 1.6;
+}
+
+#tribute-link {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+#tribute-link:hover {
+  text-decoration: underline;
+}
